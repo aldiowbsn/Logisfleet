@@ -1,0 +1,33 @@
+Supplier must have default security set
+Create Operator with limited function
+Break down by supplier then user
+Pickup point become POI in VTS
+Pickup point may not even have address or postal code
+To send position and save, retrieve for historical purpose
+
+Exchange
+A to B and B to A completed
+
+Dispatch
+A to B
+
+Collect Bin
+B to A
+
+On the spot
+
+A to B
+
+JobTypes always RoRo Truck and RoRo Bin
+
+Driver load the bins
+
+Driver communication button on-site/off-site etc...
+Driver incident update
+
+Telegram tap to speak not long press
+
+Driver availability
+
+Put number in driver column show number Planned,released,executed,available
+Driver only see 1 job

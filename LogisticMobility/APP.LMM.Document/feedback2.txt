@@ -1,0 +1,43 @@
+40 trucks 150 trips a day
+
+Suppliers
+Reset password to supplier
+Default operator role for supplier
+Operator by default full rights without security (Admin)
+
+Order creation
+Add density for scrap type (e.g: metric ton/ cube meter)
+Add quantifier for BinTypes/ScrapTypes for furture optimization
+Combine vehicle type and job type and transport order type
+Add header "Quick assign" for vehicles/drivers/bins
+Contacts is mandatory
+Change contacts to "Site contact person" and "Site contact number"
+Add PIC(person in charge) in supplier creation, email/phone for alerts
+Change external remarks to "instruction to drivers"
+Allow adding of pickup points in order creation
+Change "Description" to "Location Description" for job steps
+Add estimated duration for jobs
+Default to warehouse location when calculating estimate time 
+Add unloading time for job
+Split datetime to commission date (required) and specific(fixed) time (optional). remove end datetime
+Picker should have "morning or afternoon" together with time.
+
+Notification settings for natsteel admin to receive order alerts by supplier
+
+Order Assign
+Simplified trip view for planning (view only)
+Show fullfillment cycle figure at assgin page(how long it takes to finish the jobs by operating hours)
+Show details order information on-demand at assign page
+Show only supplier name at assign page.
+Order number is prefix with supplier code/date/time, 4 digit running number. All numbers no alphabet. 
+Running number reset everyday
+Auto-complete job if driver never tap complete
+Job repeat. Exclusion of weekend/sunday/public holidays
+Sort/filtering at assignment page.
+
+Mobile
+Get name and Id(IC no.) when getting signature
+Remove navigation option due to data comsumption
+More details at job listing page
+Record when driver reaches site, etc..
+Disable turning off GPS
